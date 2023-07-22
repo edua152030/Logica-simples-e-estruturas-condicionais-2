@@ -123,8 +123,7 @@ const operacao = prompt("Digite a operação matemática (+, -, *, /): ")
     }   
     */         
 
-/*
-7. Faça um algoritmo que simule um caixa eletrônico. Nesse algoritmo
+/*7. Faça um algoritmo que simule um caixa eletrônico. Nesse algoritmo
 a conta do usuário deve ser criada já com um saldo positivo. 
 
 O usuário precisa informar a quantidade de dinheiro que deseja
@@ -158,8 +157,6 @@ if(saque > 0 && (saque + taxaSaque) < saldo){
     saque de ${saque + taxaSaque} pois seu saldo e ${saldo}`))
 */
 
-
-
 /*8. Faça um algoritmo que leia a idade e peso de um atleta e imprima
 a sua categoria, de acordo com a seguinte tabela:
 
@@ -191,7 +188,6 @@ if(idadeAtual < 12){
     document.write(`veterano`)
 }
 */
-
 
 /*9. Escreva um programa que pergunte a velocidade de um carro. Caso
 ultrapasse 80Km/h, exiba uma mensagem dizendo que o usuário foi
